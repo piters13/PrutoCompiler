@@ -1,0 +1,17 @@
+begin
+    let a = 5.05
+    let b
+    print "a"
+    print a
+    print "agh"
+    print 55
+    print "Enter the number:"
+    read(b)
+    add 4.2 to b
+    print b
+    sub 4.2 from b
+    print b
+    pow a to 3
+    print a
+    print b
+end
